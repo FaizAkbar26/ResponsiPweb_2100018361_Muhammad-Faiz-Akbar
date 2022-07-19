@@ -1,4 +1,4 @@
-#**ResponsiPweb_2100018361_Muhammad-Faiz-Akbar**</br>
+#ResponsiPweb_2100018361_Muhammad-Faiz-Akbar</br>#
 Nama : Muhammad Faiz Akbar</br>
 NIM  : 2100018361</br>
 Merupakan tugas responsi dari praktikum pemrograman web Universitas Ahmad Dahlan. 
